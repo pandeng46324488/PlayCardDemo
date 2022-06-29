@@ -1,0 +1,8 @@
+
+PlayCardGame:
+  #允许
+  allowSpreadSpan: 1
+  spreadMultipleNum: 1
+  multipleUpper: 0
+  #round
+  round: 6
